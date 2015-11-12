@@ -1,2 +1,0 @@
-#!/bin/bash
-google-chrome  --proxy-server="10.0.2.15:2516"
